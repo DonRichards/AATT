@@ -27,7 +27,7 @@ $ cd AATT
 ## Building and Running
 
 ```sh
-$ sudo npm install
+$ npm install
 $ git submodule init
 $ git submodule update
 $ DEBUG=AATT* http_port=3000 node app.js
